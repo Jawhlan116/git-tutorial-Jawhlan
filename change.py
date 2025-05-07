@@ -1,1 +1,1 @@
-print("Oorchlolt V2")
+print("Oorchlolt")
